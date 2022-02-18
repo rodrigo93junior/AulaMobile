@@ -13,3 +13,4 @@ const pessoa = {
     }
 }
 pessoa.faleDeVoce("Juana");
+pessoa.faleDeVoce("Juana");
